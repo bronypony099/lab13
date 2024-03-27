@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("HellooooooDoooo and welcome!");
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
+        // Press Shift+F10 or clicgk the green arrow button in the gutter to run the code.
         for (int i = 87; i <= 51006; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
