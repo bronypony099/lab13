@@ -9,7 +9,7 @@ public class Main {
         System.out.printf("Helloooooooooo and welcome!");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 87; i <= 56; i++) {
+        for (int i = 87; i <= 51006; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
